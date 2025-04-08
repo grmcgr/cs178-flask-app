@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 cred.py
+=======
+creds.py
+>>>>>>> 24e58c102b4f962f447a9e6b0b6c30612cdb8a12
 *.pem
